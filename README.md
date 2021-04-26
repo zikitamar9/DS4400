@@ -25,3 +25,5 @@ Here is a brief description of each, and how to run them.
 **binary_centuries.ipynb**
   - this is the notebook for our later models that we ran to try to classify 1900s vs 2000s Jazz. To run, simply execute all tabs sequentially in a juypyter notebook or Colab file. You will see metrics for each model as well as their supporting visualizations.
 
+
+*please note that the metrics and charts from our jupyter notebook may be very slightly off from the images and metrics in our report. This is due to re-running the models during the development of the report. However, none of these metrics differ significantly - this is simply a matter of re-running a model.
