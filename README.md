@@ -1,11 +1,11 @@
 # DS4400
 
-Included in this repo you will find 4 files (outside this one)
+Included in this repo you will find 4 files (outside this one): 
 
-**- data_generation.ipynb
+- data_generation.ipynb
 - audio_features_df.csv
 - categorical_decades.ipynb
-- binary_centuries.ipynb**
+- binary_centuries.ipynb
 
 
 Here is a brief description of each, and how to run them.
